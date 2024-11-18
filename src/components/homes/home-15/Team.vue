@@ -48,7 +48,7 @@
                 <img
                   style="height: 350px; object-fit: cover"
                   class="img-fluid rounded"
-                  :src="`/assets/img/gallery/${i + 1}.JPG`"
+                  :src="`/assets/img/gallery/${i + 1}.jpg`"
                   alt="photo"
                 />
               </div>
